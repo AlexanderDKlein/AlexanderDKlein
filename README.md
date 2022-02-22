@@ -2,6 +2,7 @@
 - I’m interested in Software Engineering/Development Internships.
 - I’m currently learning Computer Science at GVSU.
 - This is my project portfolio.
+- Something to note: I have added a lot of these projects from my school GitHub account @Alexander-Klein-GVSU and my personal GitHub account @TheDragonOfLight, so anything from those two accounts means that I have either contributed to them or wrote them entirely on my own.
 
 <!---
 AlexanderDKlein/AlexanderDKlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
